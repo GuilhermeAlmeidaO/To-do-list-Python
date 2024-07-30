@@ -6,6 +6,10 @@
 - #### This app was made using:
 ![Logo](https://skillicons.dev/icons?i=python,sqlite)
 
+### Ideia for this app:
+
+ - [DevAprender: DestravaDev](https://www.youtube.com/@DevAprender)
+
 ### Screenshots:
 
 ![todolist](https://github.com/user-attachments/assets/060be4dc-6c3c-4d88-86e0-e83463099854)
